@@ -1,0 +1,3 @@
+- Hi, I'm @MicahM22
+- I am a CS major at SDSU
+- I am taking CS 370 and CS 420
